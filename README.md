@@ -19,7 +19,7 @@ curl
 git
 Clone the source with git:
 
-$ git clone https://github.com/rust-lang/rust.git
+$ git clone 
 $ cd rust
 Build and install:
 
